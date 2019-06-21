@@ -8,7 +8,7 @@ import (
 	"testing"
 )
 
-import "github.com/fangguanya/hotkeys"
+import "github.com/fangguanya/easykey"
 
 type testRegister struct {
 	fsModifiers hotkey.Modifier

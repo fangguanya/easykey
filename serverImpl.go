@@ -13,7 +13,7 @@ import (
 	"github.com/lxn/win"
 )
 
-import "github.com/fangguanya/hotkeys/win"
+import "github.com/fangguanya/easykey/win"
 
 const (
 	msgRegister = iota

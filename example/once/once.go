@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/fangguanya/hotkeys"
+	"github.com/fangguanya/easykey"
 )
 
 var hkey = hotkey.New()
