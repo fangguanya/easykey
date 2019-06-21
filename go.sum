@@ -1,0 +1,4 @@
+github.com/lxn/win v0.0.0-20190618153233-9c04a4e8d0b8 h1:Pc9Zy7abNYw7nYW2c/XbLSRUq8Fu6+bnUvDNf2v7g30=
+github.com/lxn/win v0.0.0-20190618153233-9c04a4e8d0b8/go.mod h1:oO6+4g3P1GcPAG7LPffwn8Ye0cxW0goh0sUZ6+lRFPs=
+golang.org/x/sys v0.0.0-20190621134130-06bbe82148b1 h1:hyhtNCb7R0GRgLYA0mm524jIqq/n8tv7Y/hhdtupGbU=
+golang.org/x/sys v0.0.0-20190621134130-06bbe82148b1/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
